@@ -5,6 +5,8 @@
 
 🔍 SQL queries? Check them out here: [sql_queries folder](/sql_queries/)
 
+![Paul Walker](https://github.com/user-attachments/assets/8d98330b-c8d2-4a30-b723-35837a7766fc)
+
 # Background
 Driven by a quest to navigate the vehicle sales market more effectively, this project was born from a desire to pinpoint trends in sales, car models, and pricing. The analysis aims to uncover insights such as the most popular models, pricing trends, and how factors like car condition and odometer readings affect sales.
 
